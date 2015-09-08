@@ -1,2 +1,4 @@
 roses are red
 violets are blue
+honey is sweet
+and so are you
